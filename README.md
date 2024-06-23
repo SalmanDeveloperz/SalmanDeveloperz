@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/11Cmo1q-_pSy6il4efhrqN-zAn_ylPp0F/view?usp=sharing](https://drive.google.com/file/d/11Cmo1q-_pSy6il4efhrqN-zAn_ylPp0F/view?usp=sharing)
 
-- ⚡ Fun fact *Alhumdulillah, I know I am Superb*
+- ⚡ *Alhumdulillah, I know I am Awesome and I'll do it*
 
 
 <h3 align="left">Connect with me:</h3>
