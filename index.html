@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Muhammad Salman</title>
+    <style>
+        #bio-container {
+            margin: 50px auto;
+            max-width: 600px;
+            text-align: center;
+        }
+
+        #bio-text {
+            font-size: 24px;
+            color: #333;
+            font-family: 'Arial', sans-serif;
+            overflow: hidden; /* Ensures text overflow is hidden */
+            white-space: nowrap; /* Prevents wrapping of text */
+            border-right: 2px solid #333; /* Cursor border */
+            animation: typing 3s steps(40, end), blink-caret 0.75s step-end infinite;
+        }
+
+        @keyframes typing {
+            from {
+                width: 0;
+            }
+            to {
+                width: 100%;
+            }
+        }
+
+        @keyframes blink-caret {
+            from, to {
+                border-color: transparent;
+            }
+            50% {
+                border-color: #333;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div id="bio-container">
+        <h1 id="bio-text"></h1>
+    </div>
+
+    <script>
+        const bioText = "I am Muhammad Salman, a Software Engineer.";
+
+        let index = 0;
+        function typeWriter() {
+            if (index < bioText.length) {
+                document.getElementById("bio-text").textContent += bioText.charAt(index);
+                index++;
+                setTimeout(typeWriter, 50); // Adjust typing speed here (milliseconds)
+            } else {
+                setTimeout(eraseText, 1000); // Wait before starting erase
+            }
+        }
+
+        function eraseText() {
+            if (index >= 0) {
+                let currentText = bioText.substring(0, index);
+                document.getElementById("bio-text").textContent = currentText;
+                index--;
+                setTimeout(eraseText, 30); // Adjust erasing speed here (milliseconds)
+            } else {
+                setTimeout(typeWriter, 1000); // Wait before starting typing again
+            }
+        }
+
+        // Start the typing animation when page loads
+        document.addEventListener("DOMContentLoaded", function() {
+            setTimeout(typeWriter, 1000); // Adjust initial delay (milliseconds)
+        });
+    </script>
+</body>
+</html>
