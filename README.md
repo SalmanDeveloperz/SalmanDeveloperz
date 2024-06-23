@@ -20,6 +20,15 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/11Cmo1q-_pSy6il4efhrqN-zAn_ylPp0F/view?usp=sharing](https://drive.google.com/file/d/11Cmo1q-_pSy6il4efhrqN-zAn_ylPp0F/view?usp=sharing)
 
 - ⚡ Fun fact **Alhumdulillah, I know I am Superb**
+-   ____                  ____                      
+ / __ \___  ___ ___    / __/__  __ _____________  
+/ /_/ / _ \/ -_) _ \  _\ \/ _ \/ // / __/ __/ -_) 
+\____/ .__/\__/_//_/ /___/\___/\_,_/_/  \__/\__/  
+   _/_/                  __  __   _               
+  / __/  _____ ______ __/ /_/ /  (_)__  ___ _     
+ / _/| |/ / -_) __/ // / __/ _ \/ / _ \/ _ `/ _ _ 
+/___/|___/\__/_/  \_, /\__/_//_/_/_//_/\_, (_|_|_)
+                 /___/                /___/       
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
