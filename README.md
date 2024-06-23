@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Data Structures & Algorithms](https://github.com/SalmanDeveloperz/DSA-in-Cpp)
 
-- 🌱 I’m currently learning **DSA, DevOps, .NET, SQL Database**
+- 🌱 I’m currently learning *DSA, DevOps, .NET, SQL Database*
 
 - 👯 I’m looking to collaborate on [Frontend Development](https://github.com/SalmanDeveloperz/image_gallery)
 
@@ -13,13 +13,13 @@
 
 - 📝 I regularly write articles on [https://www.blogger.com/blog/posts/2409972467557353485?hl=en&tab=jj&pli=1](https://www.blogger.com/blog/posts/2409972467557353485?hl=en&tab=jj&pli=1)
 
-- 💬 Ask me about **Data Structures and Algorithms and DevOps**
+- 💬 Ask me about *Data Structures and Algorithms and DevOps*
 
-- 📫 How to reach me **chmsalman199@gmail.com**
+- 📫 How to reach me *chmsalman199@gmail.com*
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/11Cmo1q-_pSy6il4efhrqN-zAn_ylPp0F/view?usp=sharing](https://drive.google.com/file/d/11Cmo1q-_pSy6il4efhrqN-zAn_ylPp0F/view?usp=sharing)
 
-- ⚡ Fun fact **Alhumdulillah, I know I am Superb**
+- ⚡ Fun fact *Alhumdulillah, I know I am Superb*
 
 
 <h3 align="left">Connect with me:</h3>
