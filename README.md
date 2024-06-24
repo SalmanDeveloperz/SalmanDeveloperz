@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Salman</h1>
-<h3 align="center">A passionate Developer from Pakistan</h3>
+<h3 align="center">A passionate Developer from Pakistan pk</h3>
 
 - 🔭 I’m currently working on [Data Structures & Algorithms](https://github.com/SalmanDeveloperz/DSA-in-Cpp)
 
