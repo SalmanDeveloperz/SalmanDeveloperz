@@ -52,7 +52,7 @@
     <p align="center">
       <h2>LeetCode Stats</h2>
     </p>
-    <img src="https://leetcard.jacoblin.cool/salmandeveloperz?theme=dark&font=Poppins&ext=contest" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/chsalman199?theme=dark&font=Darker%20Grotesque" alt="LeetCode Stats" />
   </div>
 
 <h3 align="left">Connect with me:</h3>
