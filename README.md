@@ -10,11 +10,11 @@
    <a href="https://github.com/SalmanDeveloperz">
    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=35&duration=1&pause=10000000&color=0303C5&center=true&repeat=false&width=435&lines=I+am+Muhammad+Salman" alt="Muhammad Salman" /></a>
    <a href="https://github.com/DenverCoder1/readme-typing-svg">
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+a+Software+Engineer;Full+Stack+Developer;DevOps+Engineer;Data+Scientist;&font=Fira%20Code&center=true&width=600&height=45&color=0F8D0F&vCenter=true&pause=1000&size=22" />
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=A+Software+Engineer;A+Open+Source+Contributor;A+DevOps+Engineer;A+DSA+Expert;&font=Fira%20Code&center=true&width=600&height=45&color=0F8D0F&vCenter=true&pause=1000&size=22" />
    </a>
 </p>
 <div align="center">
-	<div>I write bugs</div>
+	<div>I write bugs and fix them</div>
 	<img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="100" />
 	<br />
 	<br />
@@ -26,7 +26,7 @@
 
 <p align="left"> <a href="https://twitter.com/chsalman199" target="blank"><img src="https://img.shields.io/twitter/follow/chsalman199?logo=twitter&style=for-the-badge" alt="chsalman199" /></a> </p>
 
-<h3 align="center">A passionate Developer from Pakistan pk</h3>
+<h3 align="center">A passionate Developer from Pk</h3>
 
 - 🔭 I’m currently working on [Data Structures & Algorithms](https://github.com/SalmanDeveloperz/DSA-in-Cpp)
 
@@ -90,9 +90,9 @@
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
 </a> 
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
+<!-- <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> 
-</a> 
+</a>  -->
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
 </a> 
@@ -132,9 +132,9 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
 </a> 
-<a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
+<!-- <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> 
-</a> 
+</a>  -->
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
 </a> 
