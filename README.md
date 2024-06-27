@@ -26,7 +26,7 @@
 
 <p align="left"> <a href="https://twitter.com/chsalman199" target="blank"><img src="https://img.shields.io/twitter/follow/chsalman199?logo=twitter&style=for-the-badge" alt="chsalman199" /></a> </p>
 
-<h3 align="center">A passionate Developer from Pk</h3>
+<h3 align="center">A passionate Developer from PK</h3>
 
 - 🔭 I’m currently working on [Data Structures & Algorithms](https://github.com/SalmanDeveloperz/DSA-in-Cpp)
 
