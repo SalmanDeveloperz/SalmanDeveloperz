@@ -25,6 +25,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salmandeveloperz" alt="salmandeveloperz" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/chsalman199" target="blank"><img src="https://img.shields.io/twitter/follow/chsalman199?logo=twitter&style=for-the-badge" alt="chsalman199" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <h3 align="center">A passionate Developer from PK</h3>
 
