@@ -39,10 +39,6 @@
 
 - 👨‍💻 All of my projects are available at [https://salmandeveloperz.github.io/portfolio/](https://SalmanDeveloperz.github.io/portfolio/)
 
-- 📝 I regularly write articles on [https://www.blogger.com/blog/posts/2409972467557353485?hl=en&tab=jj&pli=1](https://www.blogger.com/blog/posts/2409972467557353485?hl=en&tab=jj&pli=1)
-
-- 💬 Ask me about *Data Structures and Algorithms and DevOps*
-
 - 📫 How to reach me *chmsalman199@gmail.com*
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/11Cmo1q-_pSy6il4efhrqN-zAn_ylPp0F/view?usp=sharing](https://drive.google.com/file/d/11Cmo1q-_pSy6il4efhrqN-zAn_ylPp0F/view?usp=sharing)
