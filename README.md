@@ -32,7 +32,6 @@
 - 🔭 **Currently Working On:** Open Source Projects and DevOps automation.
 - 🌱 **Learning:** Advanced DevOps, AI/ Machine Learning, Databases.
 - 👨‍💻 **Portfolio:** [My Website](https://salman-ch.netlify.app/)
-- 📄 **Resume:** [View Here](https://drive.google.com/file/d/1A76vQ2pjH3M5nSyn-2Z1rZlVGSpipVd4/view?usp=sharing)
 - ⚡ **Fun Fact:** I write and fix bugs while enjoying the process of learning.
 
 ---
