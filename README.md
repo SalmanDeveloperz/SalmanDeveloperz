@@ -110,6 +110,6 @@
 
 ---
 
-### Quote of the Day
+### Quote of the Day: 
 
 <h3 align="center">When Code Whispers, Bugs Echo.</h3>
