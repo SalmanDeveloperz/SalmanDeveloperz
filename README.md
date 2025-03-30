@@ -41,19 +41,19 @@
   <table>
     <tr>
       <td><b>Programming Languages</b></td>
-      <td>C/C++ STL, C#, Python, JavaScript, PHP</td>
+      <td>C/C++ STL, C#, Python, JavaScript, PHP, Dart/ Kotlin</td>
     </tr>
     <tr>
       <td><b>Web Development</b></td>
       <td>HTML5, CSS, JQuery, Bootstrap, ReactJS</td>
     </tr>
     <tr>
-      <td><b>Cloud & Database</b></td>
-      <td>AWS, Azure, Linux, Chef, Ansible, Kubernetes, Docker, CI/CD, Jenkins, Git/GitHub, SQL, MySQL, PostgreSQL</td>
+      <td><b>AI/ Machine Learning</b></td>
+      <td>Python3, Numpy, Pandas, Sci-kit, classification, regression, clustering, SVM, Decision Tree, Random Forest, Reinforcement, K-Means, Matplotlib, Tensorflow </td>
     </tr>
     <tr>
-      <td><b>DevOps</b></td>
-      <td>S3, Glue, Athena, Lambda, Notebooks</td>
+      <td><b>Cloud & Database</b></td>
+      <td>AWS, Azure, Jira, Linux/ Bash, Git/GitHub, Chef, Ansible, EC2 Instances, Grafana, Kubernetes, Docker, CI/CD, Jenkins, SQL, MySQL, PostgreSQL</td>
     </tr>
   </table>
 </div>
