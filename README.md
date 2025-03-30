@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Muhammad Salman!</h1>
+<h1 align="center">Hi, I'm Muhammad Salman!</h1>
 
 <p align="center">
    <a href="https://github.com/SalmanDeveloperz">
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center" style="font-size: 18px;">
-   🌟 Turning Ideas into Code | 💡 Innovating Through Technology | 🚀 Striving for Excellence
+   Turns Ideas into Code <> | Obsession for Learning | Striving for Excellence
 </p>
 
 <p align="center">
@@ -26,16 +26,16 @@
    </a>
 </p>
 
-## 🌟 About Me
+## About Me:
 
-- 🔭 **Currently Working On:** Open Source Projects and DevOps automation.
-- 🌱 **Learning:** Advanced DevOps, AI/ Machine Learning, Databases.
+- 🔭 **Currently Working On:** Open Source Projects.
+- 🌱 **Learning:** Advanced DevOps, AI/ Machine Learning, Languages & Databases.
 - 👨‍💻 **Portfolio:** [My Website](https://salman-ch.netlify.app/)
-- ⚡ **Fun Fact:** I write and fix bugs while enjoying the process of learning.
+- ⚡ **Fun Fact:** I write and fix bugs with obsessions and enjoying the process of learning.
 
 ---
 
-## 🛠️ Skills and Tools
+## Skills and Tools:
 
 <div align="center">
   <table>
@@ -64,7 +64,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=salmandeveloperz&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -74,7 +74,7 @@
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me:
 
 <p>
   <a href="https://www.linkedin.com/in/msalman199/" target="_blank">
@@ -100,15 +100,16 @@
 </p>
 
 ---
-
-## 🏆 Achievements
+<!--
+## Achievements
 
 <p>
   <img src="https://github-profile-trophy.vercel.app/?username=salmandeveloperz&theme=radical" alt="Trophies" />
 </p>
 
 ---
+-->
 
-### Quote of the Day: 
+### Quote of the Day!!!!!!
 
-<h3 align="center">When Code Whispers, Bugs Echo.</h3>
+<h3 align="center">When Code Whispers, then Bugs Echo ✌</h3>
