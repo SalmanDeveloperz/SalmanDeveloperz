@@ -1,115 +1,20 @@
-<h1 align="center">Hi, I'm Muhammad Salman!</h1>
+# Muhammad Salman
 
-<p align="center">
-   <a href="https://github.com/SalmanDeveloperz">
-      <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=5000&pause=2000&color=00BFFF&center=true&width=700&lines=Software+Engineer+|+Open+Source+Contributor;DevOps+Enthusiast+|+Continuous+Learner" alt="Typing SVG" />
-   </a>
-</p>
+**Software Engineer | Open Source Contributor | Distributed Systems Enthusiast**
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer at work" width="60%" />
-</p>
+Passionate about solving real-world problems with scalable, maintainable software. I contribute to open-source projects and specialize in backend systems, cloud architecture, and high-performance services.
 
-<p align="center" style="font-size: 18px;">
-   Turns Ideas into Code <> | Obsession for Learning | Striving for Excellence
-</p>
+## 📈 WakaTime Activity
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-<p align="center">
-   <a href="https://linkedin.com/in/msalman199" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-   </a>
-   <a href="https://twitter.com/chsalman199" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-   </a>
-   <a href="mailto:chsalmanramzan41@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-   </a>
-</p>
+## Highlights
+- 💻 1.5+ years in professional software development
+- ⚙️ Skilled in: Python, Go, TypeScript, React, Django, gRPC, AWS, Docker, K8s
+- 🧠 Building systems that scale and teams that ship
+- 🌐 Contributor to: FOSSology, Jenkins, GNSS-SDR, and more
 
-## About Me:
-
-- 🔭 **Currently Working On:** Open Source Projects.
-- 🌱 **Learning:** Advanced DevOps, AI/ Machine Learning, Languages & Databases.
-- 👨‍💻 **Portfolio:** [My Website](https://salman-ch.netlify.app/)
-- ⚡ **Fun Fact:** I write and fix bugs with obsessions and enjoying the process of learning.
-
----
-
-## Skills and Tools:
-
-<div align="center">
-  <table>
-    <tr>
-      <td><b>Programming Languages</b></td>
-      <td>C/C++ STL, C#, Python, JavaScript, PHP, Dart/ Kotlin</td>
-    </tr>
-    <tr>
-      <td><b>Web Development</b></td>
-      <td>HTML5, CSS, JQuery, Bootstrap, ReactJS</td>
-    </tr>
-    <tr>
-      <td><b>AI/ Machine Learning</b></td>
-      <td>Python3, Numpy, Pandas, Sci-kit, classification, regression, clustering, SVM, Decision Tree, Random Forest, Reinforcement, K-Means, Matplotlib, Tensorflow </td>
-    </tr>
-    <tr>
-      <td><b>Cloud & Database</b></td>
-      <td>AWS, Azure, Jira, Linux/ Bash, Git/GitHub, Chef, Ansible, EC2 Instances, Grafana, Kubernetes, Docker, CI/CD, Jenkins, SQL, MySQL, PostgreSQL</td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,cpp,react,nodejs,docker,kubernetes,aws,azure,gcp,linux,git,postman,mysql,postgres" alt="Skills and Tools" />
-</div>
-
----
-
-## GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salmandeveloperz&show_icons=true&theme=radical" alt="GitHub Stats" />
-	&nbsp &nbsp &nbsp
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=salmandeveloperz&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-## Connect with Me:
-
-<p>
-  <a href="https://www.linkedin.com/in/msalman199/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://twitter.com/chsalman199" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://medium.com/@chsalmanramzan422" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
-  </a>
-
-
-  <a href="https://stackoverflow.com/users/23370213/salman-ramzan" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/u/chsalman199/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/chsalmanrjvv0/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
-  </a>
-</p>
-
----
-<!--
-## Achievements
-
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=salmandeveloperz&theme=radical" alt="Trophies" />
-</p>
-
----
--->
-
-### Quote of the Day!!!!!!
-
-<h3 align="center">When Code Whispers, then Bugs Echo ✌</h3>
+## Connect
+- GitHub: [@SalmanDeveloperz](https://github.com/SalmanDeveloperz)
+- WakaTime: [@Muhammad Salman](https://wakatime.com/@948cba93-c82d-413b-ba4d-d858bf62cab3)
+- LinkedIn: [@chmsalman199](https://www.linkedin.com/in/chmsalman199/)
