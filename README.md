@@ -6,6 +6,11 @@ Passionate about solving real-world problems with scalable, maintainable softwar
 
 ## 📈 WakaTime Activity
 <!--START_SECTION:waka-->
+
+```txt
+Other   43 mins         █████████████████████████   100.00 %
+```
+
 <!--END_SECTION:waka-->
 
 ## Highlights
