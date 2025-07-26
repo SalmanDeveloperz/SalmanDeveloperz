@@ -1,8 +1,6 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 2 hrs 20 mins
-
 Other      10 hrs 42 mins  ████████████████████▓░░░░   82.00 %
 Docker     1 hr 3 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 %
 Shell      35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
