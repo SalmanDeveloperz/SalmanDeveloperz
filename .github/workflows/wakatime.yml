@@ -2,20 +2,18 @@ name: Waka Readme
 
 on:
   schedule:
-    # Runs every 12 hours
-    - cron: '0 */12 * * *'
+    - cron: "0 0 * * *" # runs every day at 00:00 UTC
   workflow_dispatch:
 
 jobs:
   update-readme:
-    name: Update WakaTime stats in README
+    name: Update WakaTime Stats
     runs-on: ubuntu-latest
+
     steps:
-      - uses: athul/waka-readme@v0.2.2
+      - uses: athul/waka-readme@v1.3.0
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_TITLE: true
-          TIME_RANGE: last_7_days
           SHOW_TOTAL: true
-          SHOW_MASKED_TIME: false
-          LANG_COUNT: 5
+          TIME_RANGE: last_7_days
+          SHOW_TITLE: true
