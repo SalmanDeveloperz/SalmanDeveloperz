@@ -16,14 +16,10 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           SHOW_TITLE: true
-          BLOCKS: true
+          BLOCKS: ░▒▓█
           TIME_RANGE: last_7_days
-          LANG_COUNT: 10
+          LANG_COUNT: 6
           SHOW_TIME: true
           SHOW_TOTAL: true
-          SHOW_MASKED_TIME: true
-          SHOW_EDITORS: true
-          SHOW_OS: true
-          SHOW_PROJECTS: true
-          SHOW_LANGUAGE_PER_REPO: true
-          SHOW_LINES_OF_CODE: true
+          SHOW_MASKED_TIME: false
+
