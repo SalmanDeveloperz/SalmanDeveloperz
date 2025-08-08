@@ -1,16 +1,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 July 2025 - To: 06 August 2025
+From: 31 July 2025 - To: 07 August 2025
 
-Total Time: 10 hrs 39 mins
+Total Time: 8 hrs 16 mins
 
-Docker     3 hrs 32 mins   ████████░░░░░░░░░░░░░░░░░   31.41 %
-C++        2 hrs 38 mins   ██████░░░░░░░░░░░░░░░░░░░   23.35 %
-Bash       1 hr 29 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.19 %
-Text       1 hr 11 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.58 %
-Markdown   39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.78 %
-Other      36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
+Docker     3 hrs 24 mins   █████████▓░░░░░░░░░░░░░░░   38.33 %
+Bash       1 hr 29 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.74 %
+C++        1 hr 23 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.62 %
+Markdown   39 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 %
+Other      36 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.93 %
+YAML       27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 %
 ```
 
 <!--END_SECTION:waka--> 
