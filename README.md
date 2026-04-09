@@ -1,6 +1,6 @@
 ---
 
-Downstream is comfortable. Upstream is unglamorous. that's why i'm there <3
+Downstream is comfortable. Upstream is unglamorous. that's why i'm there
 
 > Signed-off-by: Muhammad Salman <github.com/SalmanDeveloperz>
 
