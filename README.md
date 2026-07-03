@@ -10,17 +10,15 @@
 
 ## About Me
 
-I'm a Software Engineer based in Lahore, Pakistan. Google Summer of Code 2025 alum at FOSSology, Linux Foundation LiFT Scholar, and someone who spends more time in other people's repositories than my own.
+I'm a Software Engineer based in Pakistan. Google Summer of Code 2025 Contributor at FOSSology, Linux Foundation LiFT Scholar 2025, and someone who spends more time in other people's repositories than my own.
 
-I go looking for the boring bugs. Dropdown menus that don't scroll right on keyboard input. Docker builds that use Make when they should use CMake. Config files that need env var substitution and nobody wanted to write it. That's the work that keeps large open source projects alive, and it's the work I actually enjoy.
+I go looking for the boring bugs. Docker builds that use Make when they should use CMake. Config files that need env var substitution and nobody wanted to write it. . Dropdown menus that don't scroll right on keyboard input. That's the work that keeps large open source projects alive, and it's the work I actually enjoy.
 
 Right now I build full stack apps with React and Node, and I break/fix infrastructure with Kubernetes, Docker and Jenkins. Open to Software Engineer, Full Stack and DevOps roles.
 
-<br>
+## 🌍 Work and Open Source Contributions
 
-## Work and Open Source Contributions
-
-### Jenkins (`jenkinsci`, `jenkins-infra`)
+### <img src="https://github.com/user-attachments/assets/d229a3cb-6031-4c9d-afd2-9d459382f6de" width="24" alt="Jenkins"> Jenkins (`jenkinsci`, `jenkins-infra`)
 
 **Pull Requests**
 - Fixed keyboard navigation scrolling in dropdowns, off screen items were losing visual feedback during arrow key navigation. [PR #26358](https://github.com/jenkinsci/jenkins/pull/26358), reported the bug myself in [#26357](https://github.com/jenkinsci/jenkins/issues/26357)
@@ -50,11 +48,11 @@ Right now I build full stack apps with React and Node, and I break/fix infrastru
 
 **Full history:** [search: author:SalmanDeveloperz org:jenkinsci](https://github.com/search?q=author%3ASalmanDeveloperz+org%3Ajenkinsci)
 
-<br>
-
-### FOSSology, Google Summer of Code 2025
+---
+### <img src="https://github.com/user-attachments/assets/d80f7ad4-cfdc-4663-a09e-fb595484ef24" alt="Party FOSSology" height="30" valign="middle"> FOSSology, Google Summer of Code 2025
 
 I spent a summer building a complete microservices infrastructure for FOSSology: scheduler, database and agent components running in Docker and Kubernetes. It taught me distributed systems and configuration management, but mostly it taught me what happens when you don't have observability. I spent whole afternoons manually correlating logs across containers trying to figure out why the scheduler kept crashing. That pain is the reason I later built PoS-OTel.
+
 - 📓 Weekly Reports: [fossology.github.io/gsoc/docs/2025/microservices-infrastructure](https://fossology.github.io/gsoc/docs/2025/microservices-infrastructure/)
 - 💻 Repo: [github.com/SalmanDeveloperz/GSoC-2025](https://github.com/SalmanDeveloperz/GSoC-2025)
 - 📄 Final Report: [summerofcode.withgoogle.com/archive/2025](https://summerofcode.withgoogle.com/archive/2025/projects/MjOyiOj7)
@@ -100,41 +98,45 @@ Key commits on that branch:
 - Panel Synchronization Button is Non-Functional ( [#2996](https://github.com/fossology/fossology/issues/2996) )
 
 **Full history:** [search: author:SalmanDeveloperz org:fossology](https://github.com/search?q=author%3ASalmanDeveloperz+org%3Afossology&type=pullrequests)
-<br>
 
-### OWASP Foundation
 
-- Reported inconsistent and clipped focus visible outlines across the Header and Footer, an accessibility bug. [#3561](https://github.com/OWASP/Nest/issues/3561)
-- Updated MENTORS.md with country, timezone and description for the GSoC 2026 mentor requirements. [PR #3605](https://github.com/OWASP/Nest/pull/3605)
+---
+### <img src="https://github.com/user-attachments/assets/c7ebe300-efa2-473a-a4c3-f6e855259099" alt="OWASP" width="32" valign="middle"> OWASP Foundation
+
+- [ OWASP/Nest ] Reported inconsistent and clipped focus visible outlines across the Header and Footer, an accessibility bug. [#3561](https://github.com/OWASP/Nest/issues/3561)
+- [ OWASP/Nest ] Updated MENTORS.md with country, timezone and description for the GSoC 2026 mentor requirements. [PR #3605](https://github.com/OWASP/Nest/pull/3605)
 - Collaborator access granted, January 2026
 
-### sktime and aeon-toolkit
+---
+### <img src="https://github.com/user-attachments/assets/225654a5-e7e3-44a0-b2fc-01771bd451a1" alt="sktime" width="32"> sktime & aeon-toolkit
 
-- sktime: fixed sporadic optimization bracket errors in `BoxCoxBiasAdjustedForecaster`. [#10316](https://github.com/sktime/sktime/pull/10316)
-- aeon-toolkit: enabled `RDSTRegressor` and `RISTRegressor` tests after Ubuntu CI verification. [#2599](https://github.com/aeon-toolkit/aeon/pull/2599)
-- aeon-toolkit: added an example notebook for using aeon distances with sklearn clusterers. [#2511](https://github.com/aeon-toolkit/aeon/pull/2511)
+- [sktime/sktime]: fixed sporadic optimization bracket errors in `BoxCoxBiasAdjustedForecaster`. [#10316](https://github.com/sktime/sktime/pull/10316)
+- [aeon-toolkit/aeon]: enabled `RDSTRegressor` and `RISTRegressor` tests after Ubuntu CI verification. [#2599](https://github.com/aeon-toolkit/aeon/pull/2599)
+- [aeon-toolkit/aeon]: added an example notebook for using aeon distances with sklearn clusterers. [#2511](https://github.com/aeon-toolkit/aeon/pull/2511)
 
-### Elsewhere
+---
+### Other Open Source
 
-- Infomaniak/desktop-kDrive: reported the sign up flow getting stuck with the "Create an account" option not showing on first launch. [#1117](https://github.com/Infomaniak/desktop-kDrive/issues/1117)
-- NumFOCUS/DISCOVER-Cookbook: cleaned up tone and fixed a typo in the documentation. [#73](https://github.com/numfocus/DISCOVER-Cookbook/pull/73)
-- TYPO3BestPractices/tea: reworked the testing framework docs, removed deprecated Nimut references. [#1480](https://github.com/TYPO3BestPractices/tea/pull/1480)
+- [Infomaniak/desktop-kDrive]: reported the sign up flow getting stuck with the "Create an account" option not showing on first launch. [#1117](https://github.com/Infomaniak/desktop-kDrive/issues/1117)
+- [NumFOCUS/DISCOVER-Cookbook]: cleaned up tone and fixed a typo in the documentation. [#73](https://github.com/numfocus/DISCOVER-Cookbook/pull/73)
+- [TYPO3BestPractices/tea]: reworked the testing framework docs, removed deprecated Nimut references. [#1480](https://github.com/TYPO3BestPractices/tea/pull/1480)
 
 <br>
+
 
 ## Projects
 
-**[PoS-OTel](https://github.com/SalmanDeveloperz/PoS-OTel)**
+**[OpenTelemetry Collector Jenkins](https://github.com/SalmanDeveloperz/PoS-OTel)**
 A local observability stack I built after being burned one too many times by silent CI failures. Jenkins feeds traces into an OpenTelemetry Collector, which does tail sampling and span to metrics conversion, then hands off to Jaeger for traces and Prometheus/Grafana for metrics and dashboards. There's a pipeline simulator running alongside it so the dashboards aren't empty on day one. Cut trace data volume by 81% across 9 pipeline runs through the sampling policy alone.
 `OpenTelemetry` `Prometheus` `Grafana` `Docker Compose`
 
-**[GSoC-2025](https://github.com/SalmanDeveloperz/GSoC-2025)**
-The full Kubernetes and Docker microservices infrastructure built for FOSSology over a summer: scheduler, database, agents, all wired together.
-`Kubernetes` `Docker` `Microservices`
+**[Micorservices Infrastructure of FOSSology](https://github.com/SalmanDeveloperz/GSoC-2025)**
+The full Kubernetes and Docker microservices infrastructure built for FOSSology over a summer: scheduler, database, agents, all wired together. Migrated build system from Make to CMake, fixed database connectivity issues, aligned the old-skool codebase of 2021 with 2025, write k8s and .yaml files for new agents and build 10+ services.
+`Kubernetes` `Docker` `Microservices` `CMake` `Linux`
 
 **[web](https://github.com/SalmanDeveloperz/web)**
 My portfolio site, built on Gatsby with Styled Components, deployed via GitHub Pages. Live at [salman-ch.netlify.app](https://salman-ch.netlify.app/).
-`Gatsby` `JavaScript`
+`Gatsby` `JavaScript` `Node.js`
 
 **[AutoAccept-Facebook-Friends](https://github.com/SalmanDeveloperz/AutoAccept-Facebook-Friends)**
 A Chrome extension that injects a one click "Accept All" button into Facebook's Friends page, with infinite scroll handling so it keeps working as more requests load.
