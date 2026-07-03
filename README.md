@@ -171,48 +171,28 @@ Full scholarship covering the Kubernetes for Developers (LFD259) certification, 
  
 **Languages**
 <p align="left">
+<img src="https://cdn.simpleicons.org/docker" width="46" height="46" title="Docker" style="border-radius:50%;background:#ffffff;padding:8px;margin:3px;"/>
+<img src="https://cdn.simpleicons.org/kubernetes" width="46" height="46" title="Kubernetes" style="border-radius:50%;background:#ffffff;padding:8px;margin:3px;"/>
+<img src="https://cdn.simpleicons.org/jenkins" width="46" height="46" title="Jenkins" style="border-radius:50%;background:#ffffff;padding:8px;margin:3px;"/>
+<img src="https://cdn.simpleicons.org/linux" width="46" height="46" title="Linux" style="border-radius:50%;background:#ffffff;padding:8px;margin:3px;"/>
 <img src="https://cdn.simpleicons.org/javascript" width="46" height="46" title="JavaScript" style="border-radius:50%;background:#ffffff;padding:8px;margin:3px;"/>
 <img src="https://cdn.simpleicons.org/typescript" width="46" height="46" title="TypeScript" style="border-radius:50%;background:#ffffff;padding:8px;margin:3px;"/>
 <img src="https://cdn.simpleicons.org/python" width="46" height="46" title="Python" style="border-radius:50%;background:#ffffff;padding:8px;margin:3px;"/>
 <img src="https://cdn.simpleicons.org/cplusplus" width="46" height="46" title="C++" style="border-radius:50%;background:#ffffff;padding:8px;margin:3px;"/>
-</p>
-
-**Frontend**
-<p align="left">
 <img src="https://cdn.simpleicons.org/react" width="46" height="46" title="React" style="border-radius:50%;background:#ffffff;padding:8px;margin:3px;"/>
 <img src="https://cdn.simpleicons.org/angular" width="46" height="46" title="Angular" style="border-radius:50%;background:#ffffff;padding:8px;margin:3px;"/>
 <img src="https://cdn.simpleicons.org/tailwindcss" width="46" height="46" title="Tailwind CSS" style="border-radius:50%;background:#ffffff;padding:8px;margin:3px;"/>
 <img src="https://cdn.simpleicons.org/html5" width="46" height="46" title="HTML5" style="border-radius:50%;background:#ffffff;padding:8px;margin:3px;"/>
-</p>
-
-**Backend**
-<p align="left">
 <img src="https://cdn.simpleicons.org/nodedotjs" width="46" height="46" title="Node.js" style="border-radius:50%;background:#ffffff;padding:8px;margin:3px;"/>
 <img src="https://cdn.simpleicons.org/express" width="46" height="46" title="Express.js" style="border-radius:50%;background:#ffffff;padding:8px;margin:3px;"/>
 <img src="https://cdn.simpleicons.org/jsonwebtokens" width="46" height="46" title="JWT" style="border-radius:50%;background:#ffffff;padding:8px;margin:3px;"/>
 <img src="https://cdn.simpleicons.org/socketdotio" width="46" height="46" title="Socket.io" style="border-radius:50%;background:#ffffff;padding:8px;margin:3px;"/>
 <img src="https://cdn.simpleicons.org/git" width="46" height="46" title="Git" style="border-radius:50%;background:#ffffff;padding:8px;margin:3px;"/>
-</p>
-
-**Databases**
-<p align="left">
 <img src="https://cdn.simpleicons.org/mongodb" width="46" height="46" title="MongoDB" style="border-radius:50%;background:#ffffff;padding:8px;margin:3px;"/>
 <img src="https://cdn.simpleicons.org/postgresql" width="46" height="46" title="PostgreSQL" style="border-radius:50%;background:#ffffff;padding:8px;margin:3px;"/>
 <img src="https://cdn.simpleicons.org/mysql" width="46" height="46" title="MySQL" style="border-radius:50%;background:#ffffff;padding:8px;margin:3px;"/>
 <img src="https://cdn.simpleicons.org/redis" width="46" height="46" title="Redis" style="border-radius:50%;background:#ffffff;padding:8px;margin:3px;"/>
-</p>
-
-**Infrastructure**
-<p align="left">
-<img src="https://cdn.simpleicons.org/docker" width="46" height="46" title="Docker" style="border-radius:50%;background:#ffffff;padding:8px;margin:3px;"/>
-<img src="https://cdn.simpleicons.org/kubernetes" width="46" height="46" title="Kubernetes" style="border-radius:50%;background:#ffffff;padding:8px;margin:3px;"/>
-<img src="https://cdn.simpleicons.org/jenkins" width="46" height="46" title="Jenkins" style="border-radius:50%;background:#ffffff;padding:8px;margin:3px;"/>
-<img src="https://cdn.simpleicons.org/linux" width="46" height="46" title="Linux" style="border-radius:50%;background:#ffffff;padding:8px;margin:3px;"/>
 <img src="https://cdn.simpleicons.org/githubactions" width="46" height="46" title="GitHub Actions" style="border-radius:50%;background:#ffffff;padding:8px;margin:3px;"/>
-</p>
-
-**AI / ML**
-<p align="left">
 <img src="https://cdn.simpleicons.org/numpy" width="46" height="46" title="NumPy" style="border-radius:50%;background:#ffffff;padding:8px;margin:3px;"/>
 <img src="https://cdn.simpleicons.org/pandas" width="46" height="46" title="Pandas" style="border-radius:50%;background:#ffffff;padding:8px;margin:3px;"/>
 <img src="https://cdn.simpleicons.org/scikitlearn" width="46" height="46" title="scikit-learn" style="border-radius:50%;background:#ffffff;padding:8px;margin:3px;"/>
