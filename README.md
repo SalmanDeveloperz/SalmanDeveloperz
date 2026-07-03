@@ -8,13 +8,14 @@
 
 </div>
 
-## About Me
 
-I'm a Software Engineer based in Pakistan. Google Summer of Code 2025 Contributor at FOSSology, Linux Foundation LiFT Scholar 2025, and someone who spends more time in other people's repositories than my own.
-
-I go looking for the boring bugs. Docker builds that use Make when they should use CMake. Config files that need env var substitution and nobody wanted to write it. . Dropdown menus that don't scroll right on keyboard input. That's the work that keeps large open source projects alive, and it's the work I actually enjoy.
-
-Right now I build full stack apps with React and Node, and I break/fix infrastructure with Kubernetes, Docker and Jenkins. Open to Software Engineer, Full Stack and DevOps roles.
+## ⚡Overview
+ 
+Hi, <br>
+I'm Muhammad Salman,<br>
+Software Engineer based in Pakistan.<br>
+Actively contributing in complex codebases, 
+fixing the infrastructure and accessibility bugs<br>
 
 ## 🌍 Work and Open Source Contributions
 
@@ -124,7 +125,7 @@ Key commits on that branch:
 <br>
 
 
-## Projects
+## <img src="https://github.com/user-attachments/assets/e4b767e7-b3dc-4f2b-813e-a5d9b1a5ec7a" alt="Projects" width="36"> Projects
 
 **[OpenTelemetry Collector Jenkins](https://github.com/SalmanDeveloperz/PoS-OTel)**
 A local observability stack I built after being burned one too many times by silent CI failures. Jenkins feeds traces into an OpenTelemetry Collector, which does tail sampling and span to metrics conversion, then hands off to Jaeger for traces and Prometheus/Grafana for metrics and dashboards. There's a pipeline simulator running alongside it so the dashboards aren't empty on day one. Cut trace data volume by 81% across 9 pipeline runs through the sampling policy alone.
@@ -134,7 +135,7 @@ A local observability stack I built after being burned one too many times by sil
 The full Kubernetes and Docker microservices infrastructure built for FOSSology over a summer: scheduler, database, agents, all wired together. Migrated build system from Make to CMake, fixed database connectivity issues, aligned the old-skool codebase of 2021 with 2025, write k8s and .yaml files for new agents and build 10+ services.
 `Kubernetes` `Docker` `Microservices` `CMake` `Linux`
 
-**[web](https://github.com/SalmanDeveloperz/web)**
+**[Website](https://github.com/SalmanDeveloperz/web)**
 My portfolio site, built on Gatsby with Styled Components, deployed via GitHub Pages. Live at [salman-ch.netlify.app](https://salman-ch.netlify.app/).
 `Gatsby` `JavaScript` `Node.js`
 
@@ -144,32 +145,28 @@ A Chrome extension that injects a one click "Accept All" button into Facebook's 
 
 <details>
 <summary>More</summary>
-
-| Project | Description |
-|---|---|
-| **Face Attendance** | Camera based face recognition attendance system, built in Python. [Code](https://github.com/SalmanDeveloperz/Face-Attendence-Python-Project-) |
-
+[Repos](https://github.com/SalmanDeveloperz?tab=repositories)
 </details>
 
 <br>
 
-## Honours and Awards
+## <img src="https://github.com/user-attachments/assets/bf638791-faea-4245-9189-2b7111e898ab" alt="Awards and Honours" width="32"> Awards & Honours
 
-**Google Summer of Code 2025**
+- **Google Summer of Code 2025**
 Selected globally at FOSSology, a program with a sub 5% acceptance rate. One of a small number of Pakistani contributors in the 2025 cohort.
 
-**Linux Foundation LiFT Scholar 2025**
+- **Linux Foundation LiFT Scholar 2025**
 Full scholarship covering the Kubernetes for Developers (LFD259) certification, awarded by the Linux Foundation, July 2025.
 
-**Byte and Battle Hackathon**
+- **Byte and Battle Hackathon**
 1st place university wide, 3rd place at the district level, in a speed programming competition, March 2025.
 
-**PEEF Scholarship**
+- **PEEF Scholarship**
 80% academic fee scholarship from the Government of Punjab, awarded for extraordinary academic standing and Intermediate (FSc) results, at a HEC recognized university.
 
 <br>
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 **Languages**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -190,9 +187,3 @@ Full scholarship covering the Kubernetes for Developers (LFD259) certification, 
 ![ML/DL](https://img.shields.io/badge/ML%2FDL-FF6F00?style=flat-square) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square) ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
 <br>
-
-## Connect
-
-If you're a maintainer with a bug nobody wants to touch, or a team that needs someone who reads the whole stack trace before asking questions, my inbox is open.
-
-[LinkedIn](https://www.linkedin.com/in/msalman199/) · [GitHub](https://github.com/SalmanDeveloperz) · [Portfolio](https://salman-ch.netlify.app/)
