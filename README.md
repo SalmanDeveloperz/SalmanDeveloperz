@@ -166,24 +166,56 @@ Full scholarship covering the Kubernetes for Developers (LFD259) certification, 
 
 <br>
 
-## 🛠️ Tech Stack
 
+## 🛠️ Tech Stack
+ 
 **Languages**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+<p align="left">
+<img src="https://cdn.simpleicons.org/javascript" width="46" height="46" title="JavaScript" style="border-radius:50%;background:#ffffff;padding:8px;margin:3px;"/>
+<img src="https://cdn.simpleicons.org/typescript" width="46" height="46" title="TypeScript" style="border-radius:50%;background:#ffffff;padding:8px;margin:3px;"/>
+<img src="https://cdn.simpleicons.org/python" width="46" height="46" title="Python" style="border-radius:50%;background:#ffffff;padding:8px;margin:3px;"/>
+<img src="https://cdn.simpleicons.org/cplusplus" width="46" height="46" title="C++" style="border-radius:50%;background:#ffffff;padding:8px;margin:3px;"/>
+</p>
 
 **Frontend**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+<p align="left">
+<img src="https://cdn.simpleicons.org/react" width="46" height="46" title="React" style="border-radius:50%;background:#ffffff;padding:8px;margin:3px;"/>
+<img src="https://cdn.simpleicons.org/angular" width="46" height="46" title="Angular" style="border-radius:50%;background:#ffffff;padding:8px;margin:3px;"/>
+<img src="https://cdn.simpleicons.org/tailwindcss" width="46" height="46" title="Tailwind CSS" style="border-radius:50%;background:#ffffff;padding:8px;margin:3px;"/>
+<img src="https://cdn.simpleicons.org/html5" width="46" height="46" title="HTML5" style="border-radius:50%;background:#ffffff;padding:8px;margin:3px;"/>
+</p>
 
 **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<p align="left">
+<img src="https://cdn.simpleicons.org/nodedotjs" width="46" height="46" title="Node.js" style="border-radius:50%;background:#ffffff;padding:8px;margin:3px;"/>
+<img src="https://cdn.simpleicons.org/express" width="46" height="46" title="Express.js" style="border-radius:50%;background:#ffffff;padding:8px;margin:3px;"/>
+<img src="https://cdn.simpleicons.org/jsonwebtokens" width="46" height="46" title="JWT" style="border-radius:50%;background:#ffffff;padding:8px;margin:3px;"/>
+<img src="https://cdn.simpleicons.org/socketdotio" width="46" height="46" title="Socket.io" style="border-radius:50%;background:#ffffff;padding:8px;margin:3px;"/>
+<img src="https://cdn.simpleicons.org/git" width="46" height="46" title="Git" style="border-radius:50%;background:#ffffff;padding:8px;margin:3px;"/>
+</p>
 
 **Databases**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+<p align="left">
+<img src="https://cdn.simpleicons.org/mongodb" width="46" height="46" title="MongoDB" style="border-radius:50%;background:#ffffff;padding:8px;margin:3px;"/>
+<img src="https://cdn.simpleicons.org/postgresql" width="46" height="46" title="PostgreSQL" style="border-radius:50%;background:#ffffff;padding:8px;margin:3px;"/>
+<img src="https://cdn.simpleicons.org/mysql" width="46" height="46" title="MySQL" style="border-radius:50%;background:#ffffff;padding:8px;margin:3px;"/>
+<img src="https://cdn.simpleicons.org/redis" width="46" height="46" title="Redis" style="border-radius:50%;background:#ffffff;padding:8px;margin:3px;"/>
+</p>
 
 **Infrastructure**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Kustomize](https://img.shields.io/badge/Kustomize-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+<p align="left">
+<img src="https://cdn.simpleicons.org/docker" width="46" height="46" title="Docker" style="border-radius:50%;background:#ffffff;padding:8px;margin:3px;"/>
+<img src="https://cdn.simpleicons.org/kubernetes" width="46" height="46" title="Kubernetes" style="border-radius:50%;background:#ffffff;padding:8px;margin:3px;"/>
+<img src="https://cdn.simpleicons.org/jenkins" width="46" height="46" title="Jenkins" style="border-radius:50%;background:#ffffff;padding:8px;margin:3px;"/>
+<img src="https://cdn.simpleicons.org/linux" width="46" height="46" title="Linux" style="border-radius:50%;background:#ffffff;padding:8px;margin:3px;"/>
+<img src="https://cdn.simpleicons.org/githubactions" width="46" height="46" title="GitHub Actions" style="border-radius:50%;background:#ffffff;padding:8px;margin:3px;"/>
+</p>
 
 **AI / ML**
-![ML/DL](https://img.shields.io/badge/ML%2FDL-FF6F00?style=flat-square) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square) ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-
+<p align="left">
+<img src="https://cdn.simpleicons.org/numpy" width="46" height="46" title="NumPy" style="border-radius:50%;background:#ffffff;padding:8px;margin:3px;"/>
+<img src="https://cdn.simpleicons.org/pandas" width="46" height="46" title="Pandas" style="border-radius:50%;background:#ffffff;padding:8px;margin:3px;"/>
+<img src="https://cdn.simpleicons.org/scikitlearn" width="46" height="46" title="scikit-learn" style="border-radius:50%;background:#ffffff;padding:8px;margin:3px;"/>
+<img src="https://cdn.simpleicons.org/huggingface" width="46" height="46" title="Transformers" style="border-radius:50%;background:#ffffff;padding:8px;margin:3px;"/>
+</p>
 <br>
