@@ -135,6 +135,8 @@ A local observability stack I built after being burned one too many times by sil
 The full Kubernetes and Docker microservices infrastructure built for FOSSology over a summer: scheduler, database, agents, all wired together. Migrated build system from Make to CMake, fixed database connectivity issues, aligned the old-skool codebase of 2021 with 2025, write k8s and .yaml files for new agents and build 10+ services.
 `Kubernetes` `Docker` `Microservices` `CMake` `Linux`
 
+**[Ezvor](https://github.com/ezvor/ezvor)**
+
 **[Website](https://github.com/SalmanDeveloperz/web)**
 My portfolio site, built on Gatsby with Styled Components, deployed via GitHub Pages. Live at [salman-ch.netlify.app](https://salman-ch.netlify.app/).
 `Gatsby` `JavaScript` `Node.js`
