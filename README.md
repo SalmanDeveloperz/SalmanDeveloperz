@@ -51,7 +51,7 @@ fixing the infrastructure and accessibility bugs<br>
   
 </details>
 
-**Full history:** [search: author:SalmanDeveloperz org:jenkinsci](https://github.com/search?q=author%3ASalmanDeveloperz+org%3Ajenkinsci)
+**Full history:** [search: author:SalmanDeveloperz org:jenkinsci](https://github.com/search?q=author%3ASalmanDeveloperz+org%3Ajenkinsci&type=pullrequests&s=created&o=asc)
 
 ---
 ### <img src="https://github.com/user-attachments/assets/d80f7ad4-cfdc-4663-a09e-fb595484ef24" alt="Party FOSSology" height="30" valign="middle"> FOSSology, Google Summer of Code 2025
