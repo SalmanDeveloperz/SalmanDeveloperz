@@ -21,6 +21,10 @@ fixing the infrastructure and accessibility bugs<br>
 
 ### <img src="https://github.com/user-attachments/assets/d229a3cb-6031-4c9d-afd2-9d459382f6de" width="24" alt="Jenkins"> Jenkins (`jenkinsci`, `jenkins-infra`)
 
+**Shipped in Official Releases**
+- **Weekly 2.565**: ([https://github.com/jenkinsci/docker/releases/tag/2.565](https://github.com/jenkinsci/docker/releases/tag/2.565))
+- **LTS 2.568.1**: ([https://github.com/jenkinsci/docker/releases/tag/2.565](https://github.com/jenkinsci/docker/releases/tag/2.568.1))
+
 **Pull Requests**
 - Fixed keyboard navigation scrolling in dropdowns, off screen items were losing visual feedback during arrow key navigation. [PR #26358](https://github.com/jenkinsci/jenkins/pull/26358), reported the bug myself in [#26357](https://github.com/jenkinsci/jenkins/issues/26357)
 - Fixed keyboard navigation for the theme picker using event delegation on dynamically inserted elements. [PR #350](https://github.com/jenkinsci/theme-manager-plugin/pull/350), requested directly by the plugin maintainer
