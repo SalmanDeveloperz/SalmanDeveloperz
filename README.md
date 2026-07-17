@@ -9,7 +9,7 @@
 </div>
 
 
-## ⚡Overview
+## Overview
  
 Hi, <br>
 I'm Muhammad Salman,<br>
