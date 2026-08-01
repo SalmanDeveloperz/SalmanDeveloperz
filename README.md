@@ -14,7 +14,7 @@
 Hi, <br>
 I'm Muhammad Salman,<br>
 Platform / Site Reliability Engineer based in Pakistan.<br>
-Actively contributing in complex codebases, 
+Ccontributing in complex codebases, 
 fixing the infrastructure and accessibility bugs<br>
 
 ## 🌍 Work and Open Source Contributions
