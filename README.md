@@ -13,7 +13,7 @@
  
 Hi, <br>
 I'm Muhammad Salman,<br>
-Platform / Site Reliability Engineer based in Pakistan.<br>
+Platform/ Site Reliability Engineer based in Pakistan.<br>
 Ccontributing in complex codebases, 
 fixing the infrastructure & accessibility bugs<br>
 
