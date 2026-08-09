@@ -140,6 +140,7 @@ The full Kubernetes and Docker microservices infrastructure built for FOSSology 
 `Kubernetes` `Docker` `Microservices` `CMake` `Linux`
 
 **[Ezvor](https://github.com/ezvor/ezvor)**
+Ezvor is all-in-One Career, Readiness, Opportunities & Coding Platform
 
 **[Website](https://github.com/SalmanDeveloperz/web)**
 My portfolio site, built on Gatsby with Styled Components, deployed via GitHub Pages. Live at [salman-ch.netlify.app](https://salman-ch.netlify.app/).
