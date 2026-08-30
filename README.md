@@ -13,7 +13,7 @@
  
 Hi, <br>
 I'm Muhammad Salman,<br>
-Software Engineer based in Pakistan.<br>
+A Software Engineer based in Pakistan.<br>
 Ccontributing in complex codebases, 
 fixing the infrastructure & accessibility bugs<br>
 
