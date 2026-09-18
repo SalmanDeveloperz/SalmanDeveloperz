@@ -22,10 +22,10 @@ fixing the infrastructure & accessibility bugs<br>
 ### <img src="https://github.com/user-attachments/assets/d229a3cb-6031-4c9d-afd2-9d459382f6de" width="24" alt="Jenkins"> Jenkins (`jenkinsci`, `jenkins-infra`)
 
 **Shipped in Official Releases**
-- **Weekly 2.565**: ([https://github.com/jenkinsci/docker/releases/tag/2.565](https://github.com/jenkinsci/docker/releases/tag/2.565))
-- **LTS 2.568.1**: ([https://github.com/jenkinsci/docker/releases/tag/2.565](https://github.com/jenkinsci/docker/releases/tag/2.568.1))
+- **Weekly 2.565**: [https://github.com/jenkinsci/docker/releases/tag/2.565](https://github.com/jenkinsci/docker/releases/tag/2.565)
+- **LTS 2.568.1**: [https://github.com/jenkinsci/docker/releases/tag/2.565](https://github.com/jenkinsci/docker/releases/tag/2.568.1)
 
-**Pull Requests**
+**Pull Requests:**
 - Fixed keyboard navigation scrolling in dropdowns, off screen items were losing visual feedback during arrow key navigation. [PR #26358](https://github.com/jenkinsci/jenkins/pull/26358), reported the bug myself in [#26357](https://github.com/jenkinsci/jenkins/issues/26357)
 - Fixed keyboard navigation for the theme picker using event delegation on dynamically inserted elements. [PR #350](https://github.com/jenkinsci/theme-manager-plugin/pull/350), requested directly by the plugin maintainer
 - Fixed a broken GitHub profile link on jenkins.io after confirming with the affected contributors. [PR #8629](https://github.com/jenkins-infra/jenkins.io/pull/8629)
@@ -68,7 +68,7 @@ Key commits on that branch:
 - `fix(scheduler)`: resolved CrashLoopBackOff issue and updated web deployment causing connectivity issue · [440f907](https://github.com/SalmanDeveloperz/fossology) · Jul 2, 2025
 - `build(Microservices)`: migrate from Make to CMake, update deps, added missing agent dockerfiles/deployment, aligned with master · [4fd4787](https://github.com/SalmanDeveloperz/fossology/commit/4fd4787936081c0c8db7df8e40d57e76e123a51a) · Aug 26, 2025
 
-**Selected Contributions** ( [22 PRs total →](https://github.com/search?q=author%3ASalmanDeveloperz+org%3Afossology&type=pullrequests) )
+**Selected Contributions** ( [22+ PRs total →](https://github.com/search?q=author%3ASalmanDeveloperz+org%3Afossology&type=pullrequests) )
 - `fix`: excluded invalid characters from the URL regex in the copyright agent. PR[ #3212](https://github.com/fossology/fossology/pull/3212)
 - `fix(agent-tests)`: modernized PHPUnit tests for the CMake migration. PR[ #3037](https://github.com/fossology/fossology/pull/3037)
 - `feat(debug)`: enabled more debugging logs for version control commands. PR[ #2958](https://github.com/fossology/fossology/pull/2958)
@@ -108,10 +108,14 @@ Key commits on that branch:
 ---
 ### <img src="https://github.com/user-attachments/assets/c7ebe300-efa2-473a-a4c3-f6e855259099" alt="OWASP" width="32" valign="middle"> OWASP Foundation
 
-- [ OWASP/Nest ] Reported inconsistent and clipped focus visible outlines across the Header and Footer, an accessibility bug. [#3561](https://github.com/OWASP/Nest/issues/3561)
-- [ OWASP/Nest ] Updated MENTORS.md with country, timezone and description for the GSoC 2026 mentor requirements. [PR #3605](https://github.com/OWASP/Nest/pull/3605)
 - Collaborator access granted, January 2026
-
+  
+- [ OWASP/Nest ] Updated MENTORS.md with country, timezone and description for the GSoC 2026 mentor requirements. [#3605](https://github.com/OWASP/Nest/pull/3605)
+  
+- [ OWASP/Nest ] Reported inconsistent and clipped focus visible outlines across the Header and Footer, an accessibility bug. [#3561](https://github.com/OWASP/Nest/issues/3561)
+  
+- [ OWASP/Nest ] Search bar hint text is selectable via mouse and keyboard. [#5602](https://github.com/OWASP/Nest/issues/5602)
+  
 ---
 ### <img src="https://github.com/user-attachments/assets/225654a5-e7e3-44a0-b2fc-01771bd451a1" alt="sktime" width="32"> sktime & aeon-toolkit
 
