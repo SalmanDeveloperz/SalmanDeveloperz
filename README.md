@@ -28,7 +28,7 @@ fixing the infrastructure & accessibility bugs<br>
 **Pull Requests:**
 - Fixed keyboard navigation scrolling in dropdowns, off screen items were losing visual feedback during arrow key navigation. [PR #26358](https://github.com/jenkinsci/jenkins/pull/26358), reported the bug myself in [#26357](https://github.com/jenkinsci/jenkins/issues/26357)
 - Fixed keyboard navigation for the theme picker using event delegation on dynamically inserted elements. [PR #350](https://github.com/jenkinsci/theme-manager-plugin/pull/350), requested directly by the plugin maintainer
-- Fixed a broken GitHub profile link on jenkins.io after confirming with the affected contributors. [PR #8629](https://github.com/jenkins-infra/jenkins.io/pull/8629)
+- Fixed a broken GitHub profile link on `jenkins.io` after confirming with the affected contributors. [PR #8629](https://github.com/jenkins-infra/jenkins.io/pull/8629)
 - Fixed search bar placeholder selection so double clicking no longer blocks input. [PR #26418](https://github.com/jenkinsci/jenkins/pull/26418), reported in [#26390](https://github.com/jenkinsci/jenkins/issues/26390)
 - Added ARIA roles for screen reader support on dropdown menus. [PR #26321](https://github.com/jenkinsci/jenkins/pull/26321)
 - Added opt in environment variable substitution for containerized Jenkins deployments. [PR #2250](https://github.com/jenkinsci/docker/pull/2250), an issue that had sat open since 2017
