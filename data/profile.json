@@ -1,0 +1,76 @@
+{
+  "_readme": "Edit this file, then run `node scripts/build.mjs` (or let the daily Action do it). Counts, statuses, the terminal, the trace and the changelog regenerate from GitHub and salman-ch.netlify.app.",
+
+  "user": "SalmanDeveloperz",
+  "site": "https://salman-ch.netlify.app",
+
+  "whoami": "software engineer · backend, ai, devops · 9D Technologies · Lahore",
+
+  "now": {
+    "shipping": "auth + reporting services in FastAPI @ 9D",
+    "building": "Ezvor: judge-verified readiness scores",
+    "exploring": "agent guardrails, traced model calls"
+  },
+
+  "upstreamOwners": ["jenkinsci", "jenkins-infra", "fossology", "owasp", "numfocus", "typo3bestpractices", "sktime", "aeon-toolkit", "dragonflydb", "meshery"],
+
+  "terminal": [
+    { "name": "jenkinsci/docker", "repos": ["jenkinsci/docker"], "status": "shipped", "note": "LTS 2.568.1" },
+    { "name": "jenkinsci/jenkins", "repos": ["jenkinsci/jenkins", "jenkinsci/theme-manager-plugin", "jenkins-infra/jenkins.io"], "status": "merged", "note": "a11y · kbd-nav" },
+    { "name": "fossology", "repos": ["fossology/fossology", "fossology/gsoc"], "status": "merged", "note": "GSoC 2025" },
+    { "name": "owasp/nest", "repos": ["OWASP/Nest"], "status": "collab", "note": "GSoC 2026 mentors" },
+    { "name": "sktime", "repos": ["sktime/sktime"], "status": "review", "note": "forecasting" }
+  ],
+
+  "oss": [
+    {
+      "name": "Jenkins", "avatar": "jenkinsci", "href": "https://github.com/jenkinsci/docker",
+      "repos": ["jenkinsci/docker", "jenkinsci/jenkins", "jenkinsci/theme-manager-plugin", "jenkins-infra/jenkins.io"],
+      "what": "Opt-in env var substitution for the official Docker image, closing a 2017 request, then Windows parity in PowerShell with Pester tests. Both ship in **Weekly 2.565** and **LTS 2.568.1**. Keyboard-navigation and ARIA fixes in core."
+    },
+    {
+      "name": "FOSSology", "avatar": "fossology", "href": "https://github.com/fossology/fossology",
+      "repos": ["fossology/fossology", "fossology/gsoc"],
+      "what": "GSoC 2025: a monolith split into **10+ services on Kubernetes**, and a Make → CMake move that cut build time **40%**. Fixes in the copyright, nomos and cp2foss agents, plus all 14 weekly reports."
+    },
+    {
+      "name": "OWASP Nest", "avatar": "OWASP", "href": "https://github.com/OWASP/Nest",
+      "repos": ["OWASP/Nest"],
+      "what": "Collaborator since Jan 2026. Focus-visible accessibility reports, the GSoC 2026 mentor list, and a security issue disclosed privately."
+    },
+    {
+      "name": "FailureTwin", "avatar": "kaulastudies", "href": "https://github.com/kaulastudies/failuretwin-ai",
+      "repos": ["kaulastudies/failuretwin-ai"],
+      "what": "Put a live LLM analysis path in front of the deterministic engine and kept the engine as the fallback, with no secrets in the client bundle."
+    },
+    {
+      "name": "sktime", "avatar": "sktime", "href": "https://github.com/sktime/sktime",
+      "repos": ["sktime/sktime"],
+      "what": "Sporadic optimization bracket errors in `BoxCoxBiasAdjustedForecaster`."
+    },
+    {
+      "name": "NumFOCUS", "avatar": "numfocus", "href": "https://github.com/numfocus/DISCOVER-Cookbook",
+      "repos": ["numfocus/DISCOVER-Cookbook"],
+      "what": "Edits to the DISCOVER Cookbook, the guide for inclusive conferences."
+    },
+    {
+      "name": "TYPO3", "avatar": "TYPO3BestPractices", "href": "https://github.com/TYPO3BestPractices/tea",
+      "repos": ["TYPO3BestPractices/tea"],
+      "what": "Reworked the testing framework docs and removed deprecated Nimut references."
+    }
+  ],
+
+  "trace": {
+    "window": ["2022-09", "2026-12"],
+    "spans": [
+      { "service": "uaf", "op": "bs.cs", "start": "2022-09", "end": "2026-06", "kind": "edu" },
+      { "service": "hywiz", "op": "intern", "start": "2023-05", "end": "2023-09", "kind": "work" },
+      { "service": "fiverr", "op": "freelance", "start": "2023-10", "end": "2025-01", "kind": "work" },
+      { "service": "fossology", "op": "gsoc.k8s", "start": "2025-02", "end": "2025-09", "kind": "oss" },
+      { "service": "linux-fdn", "op": "lift.scholar", "start": "2025-07", "end": "2025-08", "kind": "award" },
+      { "service": "jenkins", "op": "contrib", "start": "2026-01", "end": null, "kind": "oss" },
+      { "service": "owasp-nest", "op": "collab", "start": "2026-01", "end": null, "kind": "oss" },
+      { "service": "9d-technologies", "op": "backend", "start": "2026-08", "end": null, "kind": "work" }
+    ]
+  }
+}
