@@ -11,10 +11,10 @@
 Software engineer at **9D Technologies** in Lahore. I write Python and FastAPI services, the CI/CD that ships them, and the telemetry that explains them when they break. Most of my open source work lands in large, long-lived codebases: container images, build systems, CI, and the accessibility bugs everyone had learned to live with. Lately, LLM agents that are only allowed to do what they can prove.
 
 <!--stats:start-->
-**28** merged upstream PRs across **7** orgs · **3** in review · code in **Jenkins Weekly 2.565** and **LTS 2.568.1**
+<!--**28** merged upstream PRs across **7** orgs · **3** in review · code in **Jenkins Weekly 2.565** and **LTS 2.568.1** -->
 <!--stats:end-->
 
-[salman-ch.netlify.app](https://salman-ch.netlify.app) · [Résumé](https://salman-ch.netlify.app/resume.pdf) · [LinkedIn](https://www.linkedin.com/in/msalman199/) · [X](https://x.com/sam_env) · [Medium](https://medium.com/@msamdev) · [Email](mailto:chsalmanramzan422@gmail.com)
+[Website](https://salman-ch.netlify.app) · [Résumé](https://salman-ch.netlify.app/resume.pdf) · [LinkedIn](https://www.linkedin.com/in/msalman199/) · [X](https://x.com/sam_env) · [Medium](https://medium.com/@msamdev) · [Email](mailto:chsalmanramzan422@gmail.com)
 
 <!-- <img src="https://komarev.com/ghpvc/?username=SalmanDeveloperz&label=Profile%20Views&color=2EC4B6&style=flat" /> -->
 
@@ -259,4 +259,4 @@ $ git log --oneline --graph -8
 
 <br>
 
-**Say hello:** [Email](mailto:chsalmanramzan422@gmail.com) · [LinkedIn](https://www.linkedin.com/in/msalman199/) · [X](https://x.com/sam_env) · [salman-ch.netlify.app](https://salman-ch.netlify.app) <sub>· or run `sudo hire salman` in the terminal there</sub>
+**Say hello:** [Email](mailto:chsalmanramzan422@gmail.com) · [LinkedIn](https://www.linkedin.com/in/msalman199/) · [X](https://x.com/sam_env) · [Website](https://salman-ch.netlify.app) <sub>· or run `sudo hire salman` in the terminal there</sub>
