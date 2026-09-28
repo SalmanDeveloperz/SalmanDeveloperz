@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="382" viewBox="0 0 880 382" role="img" aria-label="Career rendered as a distributed trace">
+<rect x=".5" y=".5" width="879" height="381" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+<g font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" xml:space="preserve">
+<text x="20" y="27"><tspan fill="#1f2328" font-weight="700">salman.career</tspan><tspan fill="#656d76">   8 spans · 28 merged upstream PRs</tspan></text>
+<text x="860" y="27" fill="#656d76" text-anchor="end">service · operation → time</text>
+<line x1="0" y1="42" x2="880" y2="42" stroke="#d0d7de"/>
+<line x1="251.451" y1="42" x2="251.451" y2="342" stroke="#d0d7de" stroke-dasharray="2 4"/><text x="251.451" y="61" text-anchor="middle" fill="#656d76">2023</text><line x1="405.804" y1="42" x2="405.804" y2="342" stroke="#d0d7de" stroke-dasharray="2 4"/><text x="405.804" y="61" text-anchor="middle" fill="#656d76">2024</text><line x1="560.157" y1="42" x2="560.157" y2="342" stroke="#d0d7de" stroke-dasharray="2 4"/><text x="560.157" y="61" text-anchor="middle" fill="#656d76">2025</text><line x1="714.51" y1="42" x2="714.51" y2="342" stroke="#d0d7de" stroke-dasharray="2 4"/><text x="714.51" y="61" text-anchor="middle" fill="#656d76">2026</text>
+<line x1="830.275" y1="68" x2="830.275" y2="342" stroke="#15803d" stroke-opacity=".6"/>
+<text x="830.275" y="61" text-anchor="middle" fill="#15803d">now</text>
+<text x="20" y="91"><tspan fill="#1f2328" font-weight="700">salman</tspan><tspan fill="#656d76"> career</tspan></text><rect x="200" y="83" width="630.275" height="8" rx="4" fill="#afb8c1" opacity=".5"/>
+<g>
+<text x="20" y="121"><tspan fill="#afb8c1">├─ </tspan><tspan fill="#1f2328" font-weight="600">uaf</tspan><tspan fill="#656d76"> bs.cs</tspan></text>
+<rect x="200" y="111" width="591.686" height="12" rx="3" fill="#0969da" fill-opacity=".28" stroke="#0969da"><animate attributeName="width" values="0;0;591.686" keyTimes="0;0.333;1" dur="1.05s" fill="freeze"/></rect>
+
+<text x="799.686" y="121" fill="#424a53" text-anchor="start" font-size="11">3y 10mo</text>
+</g>
+<g>
+<text x="20" y="151"><tspan fill="#afb8c1">├─ </tspan><tspan fill="#1f2328" font-weight="600">hywiz</tspan><tspan fill="#656d76"> intern</tspan></text>
+<rect x="302.902" y="141" width="64.314" height="12" rx="3" fill="#0d9488" fill-opacity=".28" stroke="#0d9488"><animate attributeName="width" values="0;0;64.314" keyTimes="0;0.386;1" dur="1.14s" fill="freeze"/></rect>
+
+<text x="375.216" y="151" fill="#424a53" text-anchor="start" font-size="11">5mo</text>
+</g>
+<g>
+<text x="20" y="181"><tspan fill="#afb8c1">├─ </tspan><tspan fill="#1f2328" font-weight="600">fiverr</tspan><tspan fill="#656d76"> freelance</tspan></text>
+<rect x="367.216" y="171" width="205.804" height="12" rx="3" fill="#0d9488" fill-opacity=".28" stroke="#0d9488"><animate attributeName="width" values="0;0;205.804" keyTimes="0;0.431;1" dur="1.23s" fill="freeze"/></rect>
+
+<text x="581.02" y="181" fill="#424a53" text-anchor="start" font-size="11">1y 4mo</text>
+</g>
+<g>
+<text x="20" y="211"><tspan fill="#afb8c1">├─ </tspan><tspan fill="#1f2328" font-weight="600">fossology</tspan><tspan fill="#656d76"> gsoc.k8s</tspan></text>
+<rect x="573.02" y="201" width="102.902" height="12" rx="3" fill="#7c3aed" fill-opacity=".28" stroke="#7c3aed"><animate attributeName="width" values="0;0;102.902" keyTimes="0;0.47;1" dur="1.32s" fill="freeze"/></rect>
+
+<text x="683.922" y="211" fill="#424a53" text-anchor="start" font-size="11">8mo</text>
+</g>
+<g>
+<text x="20" y="241"><tspan fill="#afb8c1">├─ </tspan><tspan fill="#1f2328" font-weight="600">linux-fdn</tspan><tspan fill="#656d76"> lift.scholar</tspan></text>
+<rect x="637.333" y="231" width="25.725" height="12" rx="3" fill="#b45309" fill-opacity=".28" stroke="#b45309"><animate attributeName="width" values="0;0;25.725" keyTimes="0;0.504;1" dur="1.41s" fill="freeze"/></rect>
+
+<text x="671.058" y="241" fill="#424a53" text-anchor="start" font-size="11">2mo</text>
+</g>
+<g>
+<text x="20" y="271"><tspan fill="#afb8c1">├─ </tspan><tspan fill="#1f2328" font-weight="600">jenkins</tspan><tspan fill="#656d76"> contrib</tspan></text>
+<rect x="714.51" y="261" width="115.765" height="12" rx="3" fill="#7c3aed" fill-opacity=".28" stroke="#7c3aed"><animate attributeName="width" values="0;0;115.765" keyTimes="0;0.533;1" dur="1.5s" fill="freeze"/></rect>
+<circle cx="830.275" cy="267" r="4" fill="#7c3aed"><animate attributeName="r" values="3.5;5.5;3.5" dur="2s" repeatCount="indefinite"/></circle>
+<text x="706.51" y="271" fill="#424a53" text-anchor="end" font-size="11">9mo · live</text>
+</g>
+<g>
+<text x="20" y="301"><tspan fill="#afb8c1">├─ </tspan><tspan fill="#1f2328" font-weight="600">owasp-nest</tspan><tspan fill="#656d76"> collab</tspan></text>
+<rect x="714.51" y="291" width="115.765" height="12" rx="3" fill="#7c3aed" fill-opacity=".28" stroke="#7c3aed"><animate attributeName="width" values="0;0;115.765" keyTimes="0;0.56;1" dur="1.59s" fill="freeze"/></rect>
+<circle cx="830.275" cy="297" r="4" fill="#7c3aed"><animate attributeName="r" values="3.5;5.5;3.5" dur="2s" repeatCount="indefinite"/></circle>
+<text x="706.51" y="301" fill="#424a53" text-anchor="end" font-size="11">9mo · live</text>
+</g>
+<g>
+<text x="20" y="331"><tspan fill="#afb8c1">└─ </tspan><tspan fill="#1f2328" font-weight="600">9d-technologies</tspan><tspan fill="#656d76"> backend</tspan></text>
+<rect x="804.549" y="321" width="25.725" height="12" rx="3" fill="#0d9488" fill-opacity=".28" stroke="#0d9488"><animate attributeName="width" values="0;0;25.725" keyTimes="0;0.583;1" dur="1.68s" fill="freeze"/></rect>
+<circle cx="830.274" cy="327" r="4" fill="#0d9488"><animate attributeName="r" values="3.5;5.5;3.5" dur="2s" repeatCount="indefinite"/></circle>
+<text x="796.549" y="331" fill="#424a53" text-anchor="end" font-size="11">2mo · live</text>
+</g>
+<rect x="20" y="358" width="10" height="10" rx="2" fill="#0d9488"/><text x="36" y="367" fill="#656d76">work</text><rect x="140" y="358" width="10" height="10" rx="2" fill="#7c3aed"/><text x="156" y="367" fill="#656d76">open source</text><rect x="260" y="358" width="10" height="10" rx="2" fill="#0969da"/><text x="276" y="367" fill="#656d76">education</text><rect x="380" y="358" width="10" height="10" rx="2" fill="#b45309"/><text x="396" y="367" fill="#656d76">award</text>
+</g>
+</svg>
