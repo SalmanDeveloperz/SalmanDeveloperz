@@ -119,8 +119,9 @@ Counts come from the GitHub API and refresh daily, so nothing here is typed by h
 <sub>Plus 1 more in [meshery/meshery](https://github.com/meshery/meshery).</sub>
 <!--oss:end-->
 
-<details>
-<summary><b>Jenkins</b>: every PR, issue and review</summary>
+<!-- <details> -->
+<!-- <summary><b>Jenkins</b>: every PR, issue and review</summary> -->
+### <img src="https://github.com/jenkinsci.png?size=64" width="20" height="20" alt=""> Jenkins </b>(every PR, issue and review):
 <br>
 
 | | Change | PR |
@@ -139,10 +140,11 @@ Counts come from the GitHub API and refresh daily, so nothing here is typed by h
 
 <sub>🚢 shipped in a release · ✅ merged · 🟡 in review · [full history →](https://github.com/search?q=author%3ASalmanDeveloperz+org%3Ajenkinsci&type=pullrequests&s=created&o=asc)</sub>
 
-</details>
+<!-- </details> -->
 
-<details>
-<summary><b>FOSSology</b>: GSoC 2025, week by week</summary>
+<!-- <details> -->
+<!-- <summary><b>FOSSology</b>: GSoC 2025, week by week</summary> -->
+### <img src="https://github.com/fossology.png?size=64" width="20" height="20" alt=""> <b>FOSSology </b> (GSoC 2025, week by week):
 <br>
 
 I spent a summer building a complete microservices infrastructure for FOSSology: scheduler, database and agents running in Docker and Kubernetes. It taught me distributed systems and configuration management, but mostly what happens when you don't have observability. That is the reason I later built PoS-OTel.
@@ -183,10 +185,11 @@ I spent a summer building a complete microservices infrastructure for FOSSology:
 
 **Issues:** [#3374](https://github.com/fossology/fossology/issues/3374) email notification docs for modern Debian/Ubuntu · [#2996](https://github.com/fossology/fossology/issues/2996) panel synchronization button · [all FOSSology PRs →](https://github.com/search?q=author%3ASalmanDeveloperz+org%3Afossology&type=pullrequests)
 
-</details>
+<!-- </details> -->
 
-<details>
-<summary><b>OWASP, sktime, aeon and the rest</b></summary>
+<!-- <details> -->
+<!-- <summary><b>OWASP, sktime, aeon and the rest</b></summary> -->
+### 🌎<b>OWASP, sktime, aeon and the rest</b>
 <br>
 
 - **OWASP Nest**, collaborator since January 2026. The [GSoC 2026 mentor entry](https://github.com/OWASP/Nest/pull/3605). Reported clipped focus-visible outlines ([#3561](https://github.com/OWASP/Nest/issues/3561)) and selectable search hints ([#5602](https://github.com/OWASP/Nest/issues/5602)). Disclosed a security issue privately.
@@ -198,7 +201,7 @@ I spent a summer building a complete microservices infrastructure for FOSSology:
 
 [Every PR outside my own repos →](https://github.com/search?q=author%3ASalmanDeveloperz+is%3Apr+-user%3ASalmanDeveloperz&type=pullrequests&s=created&o=desc)
 
-</details>
+<!-- </details> -->
 
 ## How I build with LLMs
 
