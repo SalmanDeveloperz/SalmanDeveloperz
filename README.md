@@ -40,13 +40,14 @@ Every one of these is running or merged somewhere you can check.
 <tr>
 <td width="50%" valign="top">
 
-**[Env var substitution in the Jenkins image](https://github.com/jenkinsci/docker/pull/2250)** &nbsp;<sub>`upstream`</sub>
+**[resume builder with a real typesetter](https://qelvo.vercel.app/)** &nbsp;<sub>`upstream`</sub>
 
-Opt-in substitution for reference config in containerized Jenkins, closing a request open since 2017. I followed it with Windows parity in PowerShell: `Invoke-EnvVarSubstitution` for `.xml`, `.conf`, `.properties` and `.groovy` files, with three Pester tests.
+You can bring the resume you already have. **Qelvo** reads PDF, DOCX or plain text, recovers the layout (columns, dates, links, bullets), and drops it into the layout you pick. Then you edit it like code, `Overleaf-style`, or like a form. Both views stay in sync.
 
-<sub>🚢 Shipped in Weekly 2.565 and LTS 2.568.1 · <a href="https://github.com/jenkinsci/docker/pull/2250">#2250 ↗</a> · <a href="https://github.com/jenkinsci/docker/pull/2365">#2365 ↗</a></sub>
+<sub>🚢 Made one for the real  · <a href="https://github.com/SalmanDeveloperz/qelvo">/SalmanDeveloperz/qelvo ↗</a> · <a href="https://qelvo.vercel.app/">Live ↗</a></sub>
 
 </td>
+
 <td width="50%" valign="top">
 
 **[FOSSology microservices](https://github.com/SalmanDeveloperz/GSoC-2025)** &nbsp;<sub>`GSoC 2025`</sub>
@@ -58,15 +59,16 @@ Revived a branch frozen since 2021 and ran the scheduler, database and agents as
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+  <td width="50%" valign="top">
 
-**[SigNoz AI SRE](https://github.com/SalmanDeveloperz/signoz-ai-sre)** &nbsp;<sub>`LLM agent`</sub>
+**[Env var substitution in the Jenkins image](https://github.com/jenkinsci/docker/pull/2250)** &nbsp;<sub>`upstream`</sub>
 
-A self-healing loop driven by SigNoz alerts. Rules fix known failures. Unknown ones go to an LLM with two read-only tools, a three-key action allowlist and a 10-second timeout, and its proposals pass the same safety check a human's would. Every model call is a traced span.
+Opt-in substitution for reference config in containerized Jenkins, closing a request open since 2017. I followed it with Windows parity in PowerShell: `Invoke-EnvVarSubstitution` for `.xml`, `.conf`, `.properties` and `.groovy` files, with three Pester tests.
 
-<sub>🤖 Gemini · Claude · GPT behind one interface · <a href="https://salman-ch.netlify.app/#ai">Watch it run ↗</a></sub>
+<sub>🚢 Shipped in Weekly 2.565 and LTS 2.568.1 · <a href="https://github.com/jenkinsci/docker/pull/2250">#2250 ↗</a> · <a href="https://github.com/jenkinsci/docker/pull/2365">#2365 ↗</a></sub>
 
 </td>
+
 <td width="50%" valign="top">
 
 **[PoS-OTel](https://github.com/SalmanDeveloperz/PoS-OTel)** &nbsp;<sub>`observability`</sub>
@@ -94,6 +96,18 @@ A career platform that scores readiness only from work a judge has verified. It 
 The web side of PDF Scanner, an Android app with 50M+ installs. It has 31 document tools, including merge, compress, OCR, sign and redact, and every one runs in the browser. Files never leave the device, so there's no conversion server to run.
 
 <sub>🟢 Live · 31 tools · 0 uploads · <a href="https://docs-scan.netlify.app/">App ↗</a> · <a href="https://github.com/SalmanDeveloperz/PDF-Scanner">Source ↗</a></sub>
+
+</td>
+</tr>
+
+<tr>
+  <td width="50%" valign="top">
+
+**[SigNoz AI SRE](https://github.com/SalmanDeveloperz/signoz-ai-sre)** &nbsp;<sub>`LLM agent`</sub>
+
+A self-healing loop driven by SigNoz alerts. Rules fix known failures. Unknown ones go to an LLM with two read-only tools, a three-key action allowlist and a 10-second timeout, and its proposals pass the same safety check a human's would. Every model call is a traced span.
+
+<sub>🤖 Gemini · Claude · GPT behind one interface · <a href="https://salman-ch.netlify.app/#ai">Watch it run ↗</a></sub>
 
 </td>
 </tr>
