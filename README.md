@@ -40,9 +40,9 @@ Every one of these is running or merged somewhere you can check.
 <tr>
 <td width="50%" valign="top">
 
-**[resume builder with a real typesetter](https://qelvo.vercel.app/)** &nbsp;<sub>`upstream`</sub>
+**[Resume builder with a real typesetter](https://qelvo.vercel.app/)** &nbsp;<sub>`upstream`</sub>
 
-You can bring the resume you already have. **Qelvo** reads PDF, DOCX or plain text, recovers the layout (columns, dates, links, bullets), and drops it into the layout you pick. Then you edit it like code, `Overleaf-style`, or like a form. Both views stay in sync.
+You can bring the resume you already have. **Qelvo** reads PDF, DOCX or plain text, recovers the layout (columns, dates, links, bullets), and drops it into the layout you pick. Then you edit it like code, Overleaf-style, or like a form. Both views stay in sync. Saves itself as you type. Close the tab, come back tomorrow, it'll there. You can share it with one link. No upload, no account, nothing stored on a server
 
 <sub>🚢 Made one for the real  · <a href="https://github.com/SalmanDeveloperz/qelvo">/SalmanDeveloperz/qelvo ↗</a> · <a href="https://qelvo.vercel.app/">Live ↗</a></sub>
 
