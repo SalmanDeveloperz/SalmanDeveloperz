@@ -20,7 +20,7 @@ Software engineer @ **9D Technologies**. I write Python and FastAPI services, th
 
 <br>
 
-## Career, as a Trace
+## Career, as a Trace 🤠
 
 I debug systems by reading traces, so this is my history the way Jaeger would draw it. Each role is a span; the live ones keep growing.
 
