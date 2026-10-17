@@ -165,13 +165,13 @@ I spent a summer building a complete microservices infrastructure for FOSSology:
 
 [Weekly reports](https://fossology.github.io/gsoc/docs/2025/microservices-infrastructure/) · [Repository](https://github.com/SalmanDeveloperz/GSoC-2025) · [Final report](https://summerofcode.withgoogle.com/archive/2025/projects/MjOyiOj7) · [Working branch `OmarAbdelSamea/GSoC/Microservices`](https://github.com/SalmanDeveloperz/fossology/tree/OmarAbdelSamea/GSoC/Microservices)
 
-| Commit | | Date |
+| Commits | | Date |
 | :-- | :-- | :-- |
 | [`1af934a`](https://github.com/SalmanDeveloperz/fossology/commit/1af934a48c449a2aacdb3bdec285a79534488db4) | `feat(core)` microservices infrastructure | 2025-06-26 |
 | [`440f907`](https://github.com/SalmanDeveloperz/fossology) | `fix(scheduler)` CrashLoopBackOff and web deployment connectivity | 2025-07-02 |
 | [`4fd4787`](https://github.com/SalmanDeveloperz/fossology/commit/4fd4787936081c0c8db7df8e40d57e76e123a51a) | `build` Make → CMake, missing agent Dockerfiles and deployments, rebased on master | 2025-08-26 |
 
-| | Merged fix | PR |
+| | Merged fix | PRs |
 | :-: | :-- | :-- |
 | ✅ | `fix` invalid characters in the copyright agent URL regex | [#3212](https://github.com/fossology/fossology/pull/3212) |
 | ✅ | `fix(agent-tests)` PHPUnit tests modernized for the CMake migration | [#3037](https://github.com/fossology/fossology/pull/3037) |
@@ -180,7 +180,7 @@ I spent a summer building a complete microservices infrastructure for FOSSology:
 | ✅ | `fix` nomos CLI no longer connects to the DB when it isn't needed | [#2947](https://github.com/fossology/fossology/pull/2947) |
 | ⚪ | `fix(cli)` cp2foss stops silently queueing jobs for unreachable URLs (closed) | [#3314](https://github.com/fossology/fossology/pull/3314) |
 
-| Week | Report | What happened |
+| Week | Report | What happened? |
 | :-- | :-: | :-- |
 | Bonding | [#300](https://github.com/fossology/gsoc/pull/300) | Kickoff, 1:1s with mentors Soham and Avinal, closed out #1299, local environment ready by May 31. |
 | 1 | [#314](https://github.com/fossology/gsoc/pull/314) | Docker, Minikube and kubectl on Ubuntu 24.04. Rebased Omar's 2021 branch. Build failures, a stale etcd image, and the web UI serving Debian's default Apache page. |
