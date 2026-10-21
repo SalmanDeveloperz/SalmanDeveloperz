@@ -134,7 +134,7 @@ Counts come from the GitHub API and refresh daily, so nothing here is typed by h
 <!--oss:end-->
 
 <!-- <details> -->
-<!-- <summary><b>Jenkins</b>: every PR, issue and review</summary> -->
+<!-- <summary><b>Jenkins</b>: every PR, issue and reviews</summary> -->
 ### <img src="https://github.com/jenkinsci.png?size=64" width="20" height="20" alt=""> Jenkins </b>(every PR, issue and review):
 <br>
 
