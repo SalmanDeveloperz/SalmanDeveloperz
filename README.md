@@ -73,7 +73,7 @@ Opt-in substitution for reference config in containerized Jenkins, closing a req
 
 **[PoS-OTel](https://github.com/SalmanDeveloperz/PoS-OTel)** &nbsp;<sub>`observability`</sub>
 
-Jenkins exports traces to an OpenTelemetry Collector that keeps every failed build, every build over 30 seconds and 20% of the rest. Traces go to Jaeger; span metrics feed Prometheus and Grafana. I built it after an afternoon of correlating container logs by hand during GSoC.
+Jenkins exports traces to an **OpenTelemetry** Collector that keeps every failed build, every build over 30 seconds and 20% of the rest. Traces go to Jaeger; span metrics feed Prometheus and Grafana. I built it after an afternoon of correlating container logs by hand during GSoC.
 
 <sub>📉 −81% trace data across 9 pipeline runs · <a href="https://github.com/SalmanDeveloperz/PoS-OTel">Source ↗</a> · <a href="https://salman-ch.netlify.app/#pos-otel">Simulator ↗</a></sub>
 
