@@ -147,6 +147,7 @@ Counts come from the GitHub API and refresh daily, so nothing here is typed by h
 | ✅ | Broken GitHub profile link on `jenkins.io`, fixed after confirming with the affected contributors | [jenkins.io#8629](https://github.com/jenkins-infra/jenkins.io/pull/8629) |
 | 🟡 | Double-clicking the search placeholder no longer blocks input. Reported in [#26389](https://github.com/jenkinsci/jenkins/issues/26389) | [jenkins#26418](https://github.com/jenkinsci/jenkins/pull/26418) |
 | 🟡 | ARIA roles for screen readers on dropdown menus | [jenkins#26321](https://github.com/jenkinsci/jenkins/pull/26321) |
+| 🟡 | Show logged-in user on error page for uncaught exceptions | [jenkins#26321](https://github.com/jenkinsci/jenkins/pull/27604) |
 
 **Issues I opened:** [#26357](https://github.com/jenkinsci/jenkins/issues/26357) dropdown keyboard navigation, with a video repro (fixed in #26358) · [#26389](https://github.com/jenkinsci/jenkins/issues/26389) search placeholder (fix in #26418) · [#26390](https://github.com/jenkinsci/jenkins/issues/26390) breadcrumb dropdown on small viewports (I reviewed the fix, [#26391](https://github.com/jenkinsci/jenkins/pull/26391)) · [docker#2350](https://github.com/jenkinsci/docker/issues/2350) Windows parity (fixed in #2365)
 
