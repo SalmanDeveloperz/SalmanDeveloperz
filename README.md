@@ -265,7 +265,7 @@ $ git log --oneline --graph -8
 <img alt="Python, TypeScript, JavaScript, C++, FastAPI, Node.js, Express, PostgreSQL, MySQL, MongoDB, Redis, Supabase, Docker, Kubernetes, Jenkins, GitHub Actions, AWS, Linux, Prometheus, Grafana, React, Angular, Astro, Tailwind, scikit-learn, Git" src="https://skillicons.dev/icons?i=py,ts,js,cpp,fastapi,nodejs,express,postgres,mysql,mongodb,redis,supabase,docker,kubernetes,jenkins,githubactions,aws,linux,prometheus,grafana,react,angular,astro,tailwind,sklearn,git&perline=13">
 
 **AI:** tool-calling agents, Vercel AI SDK, Gemini · Claude · GPT, LangChain, RAG, embeddings, BM25, OpenTelemetry `gen_ai.*` tracing, NumPy, pandas, Hugging Face Transformers.<br>
-**Also:** OpenTelemetry, Jaeger, SigNoz, Kustomize, CMake, JWT, Socket.io, PowerShell, HTML5.
+**Also:** OpenTelemetry, Jaeger, SigNoz, Kustomize, CMake, JWT, Socket.io, PowerShell, Swift.
 
 <details>
 <summary>This week in code</summary>
