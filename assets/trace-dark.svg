@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="880" height="382" viewBox="0 0 880 382" role="img" aria-label="Career rendered as a distributed trace">
 <rect x=".5" y=".5" width="879" height="381" rx="12" fill="#161b22" stroke="#30363d"/>
 <g font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" xml:space="preserve">
-<text x="20" y="27"><tspan fill="#e6edf3" font-weight="700">salman.career</tspan><tspan fill="#8b949e">   8 spans · 28 merged upstream PRs</tspan></text>
+<text x="20" y="27"><tspan fill="#e6edf3" font-weight="700">salman.career</tspan><tspan fill="#8b949e">   8 spans · 29 merged upstream PRs</tspan></text>
 <text x="860" y="27" fill="#8b949e" text-anchor="end">service · operation → time</text>
 <line x1="0" y1="42" x2="880" y2="42" stroke="#30363d"/>
 <line x1="250.462" y1="42" x2="250.462" y2="342" stroke="#30363d" stroke-dasharray="2 4"/><text x="250.462" y="61" text-anchor="middle" fill="#8b949e">2023</text><line x1="401.846" y1="42" x2="401.846" y2="342" stroke="#30363d" stroke-dasharray="2 4"/><text x="401.846" y="61" text-anchor="middle" fill="#8b949e">2024</text><line x1="553.231" y1="42" x2="553.231" y2="342" stroke="#30363d" stroke-dasharray="2 4"/><text x="553.231" y="61" text-anchor="middle" fill="#8b949e">2025</text><line x1="704.615" y1="42" x2="704.615" y2="342" stroke="#30363d" stroke-dasharray="2 4"/><text x="704.615" y="61" text-anchor="middle" fill="#8b949e">2026</text><line x1="856" y1="42" x2="856" y2="342" stroke="#30363d" stroke-dasharray="2 4"/><text x="856" y="61" text-anchor="middle" fill="#8b949e">2027</text>
