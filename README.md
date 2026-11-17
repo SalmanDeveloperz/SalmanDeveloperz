@@ -14,7 +14,7 @@ Software engineer @ **9D Technologies**. I write Python and FastAPI services, th
 **28** merged upstream PRs across **7** orgs · **3** in review · code in **Jenkins Weekly 2.565** and **LTS 2.568.1** -->
 <!--stats:end-->
 
-[Website](https://salman-ch.netlify.app) · [Résumé](https://salman-ch.netlify.app/resume.pdf) · [LinkedIn](https://www.linkedin.com/in/msalman199/) · [X](https://x.com/sam_env) · [Medium](https://medium.com/@msamdev) · [Email](mailto:chsalmanramzan422@gmail.com)
+[Website](https://salman-ch.netlify.app) · [Resume](https://salman-ch.netlify.app/resume.pdf) · [LinkedIn](https://www.linkedin.com/in/msalman199/) · [X](https://x.com/sam_env) · [Medium](https://medium.com/@msamdev) · [Email](mailto:chsalmanramzan422@gmail.com)
 
 <!-- <img src="https://komarev.com/ghpvc/?username=SalmanDeveloperz&label=Profile%20Views&color=2EC4B6&style=flat" /> -->
 
