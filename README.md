@@ -8,7 +8,7 @@
 
 ### I build systems and fix the pipelines 👀
 
-Software engineer @ **9D Technologies**. I write Python and FastAPI services, the CI/CD that ships them, and the telemetry that explains them when they break. Most of my open source work lands in large, long-lived codebases: container images, build systems, CI, and the accessibility bugs everyone had learned to live with. Lately, LLM agents that are only allowed to do what they can prove.
+Associate Software engineer @ **9D Technologies**. I write Python and FastAPI services, the CI/CD that ships them, and the telemetry that explains them when they break. Most of my open source work lands in large, long-lived codebases: container images, build systems, CI, and the accessibility bugs everyone had learned to live with. Lately, LLM agents that are only allowed to do what they can prove.
 
 <!--stats:start
 **28** merged upstream PRs across **7** orgs · **3** in review · code in **Jenkins Weekly 2.565** and **LTS 2.568.1** -->
