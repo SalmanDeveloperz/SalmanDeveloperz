@@ -6,7 +6,7 @@
   </picture>
 </a>
 
-### I build systems and fix the pipelines 👀
+### I build systems and fix the pipelines
 
 Associate Software engineer @ **9D Technologies**. I write Python and FastAPI services, the CI/CD that ships them, and the telemetry that explains them when they break. Most of my open source work lands in large, long-lived codebases: container images, build systems, CI, and the accessibility bugs everyone had learned to live with. Lately, LLM agents that are only allowed to do what they can prove.
 
